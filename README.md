@@ -1,3 +1,3 @@
-# Icoder
-iCoder: The Premier Learning Platform for Students
+# Textutlis
+Textutils- A text reader website
 TextUtils is a versatile web application designed to manipulate and analyze text. Developed using React, it offers various functionalities such as converting text to uppercase, lowercase, clearing text, and copying text to the clipboard. Users can input text and perform these actions with the click of a button. The application also provides a summary of the text, including character and word counts, and estimates the reading time. TextUtils features a dark mode that adjusts the background and text color for a comfortable user experience. It showcases modern web development techniques, utilizing React's state management and event handling capabilities, and integrates styling using Bootstrap. This tool is particularly useful for students, writers, and anyone needing quick text transformations and insights, making it a practical addition to any productivity toolkit.
